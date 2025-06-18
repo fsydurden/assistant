@@ -37,6 +37,6 @@ pip install google-generativeai python-dotenv
 4.Add your API key:
 GOOGLE_API_KEY=your_google_api_key_here
 
-==> **Usage**
+  ==> **Usage**
 
 python main.py
